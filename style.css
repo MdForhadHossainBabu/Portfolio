@@ -1,3 +1,8 @@
-.hello{
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hello {
     border-radius: 8px;
 }
